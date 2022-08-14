@@ -1,3 +1,4 @@
+patika dev linkim: https://app.patika.dev/nasituygun
 1.[16,21,11,8,12,22] -> Merge Sort
 
 ```
